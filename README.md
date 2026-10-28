@@ -1,4 +1,4 @@
-# Google Cloud Model Armor — Python Developer Integration Starter 🛡️🤖
+# Google Cloud Model Armor — Python Developer Integration Starter 🛡️
 
 Companion repository for **[Protecting Your AI Apps from Prompt Injection & Data Leaks: A Developer's Guide to Google Cloud Model Armor](https://jorgeliauw.nl/posts/consume-google-cloud-model-armor-in-your-ai-application/)**.
 
